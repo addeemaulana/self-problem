@@ -2,3 +2,4 @@
   - check in http://www.freespeedtest.com/ with email : ade.maulana@muliasuksesjaya.com
   - Check the load time of your website from multiple locations around the world! Know in an instant if your website is experiencing performance problems
   - check in https://gtmetrix.com/reports/www.airbnb.co.id/5Ps98Lcf | email: addeemaulana@gmail.com
+  - https://www.minifier.org/ for minify css, js
