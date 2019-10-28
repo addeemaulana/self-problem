@@ -1,0 +1,3 @@
+- Bad website kitchenart.id speed 
+  - check in http://www.freespeedtest.com/ with email : ade.maulana@muliasuksesjaya.com
+  - Check the load time of your website from multiple locations around the world! Know in an instant if your website is experiencing performance problems
